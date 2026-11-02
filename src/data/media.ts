@@ -25,7 +25,7 @@ export const portraits: Record<PersonId, MediaImage> = {
   angela: { ...img('people', 'angela', peopleWidths), alt: 'Retrato de Ángela frente a una puesta de sol' },
   edu: { ...img('people', 'edu', peopleWidths), alt: 'Retrato de Edu cargando varias bolsas de patatas fritas' },
   ana: { ...img('people', 'ana', peopleWidths), alt: 'Retrato de Ana' },
-  luz: { ...img('people', 'luz', peopleWidths), alt: 'Retrato de Luz en una barandilla frente al mar' },
+  luz: { ...img('people', 'luz', peopleWidths), alt: 'Retrato de Luz con dos helados en la mano' },
   jorge: { ...img('people', 'jorge', peopleWidths), alt: 'Retrato de Jorge con camiseta amarilla y verde' },
 };
 

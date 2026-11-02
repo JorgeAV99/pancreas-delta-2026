@@ -7,7 +7,7 @@
     { "id": "angela", "source": "angela.jpeg", "folder": "people", "ratio": 0.8, "widths": [480, 900], "crop": { "cx": 0.5, "cy": 0.6, "h": 0.56 } },
     { "id": "edu", "source": "edu.jpeg", "folder": "people", "ratio": 0.8, "widths": [480, 900], "crop": { "cx": 0.45, "cy": 0.47, "h": 0.7 } },
     { "id": "ana", "source": "ana.jpeg", "folder": "people", "ratio": 0.8, "widths": [480, 900], "crop": { "cx": 0.66, "cy": 0.5, "h": 1 } },
-    { "id": "luz", "source": "luz.jpeg", "folder": "people", "ratio": 0.8, "widths": [480, 900], "crop": { "cx": 0.5, "cy": 0.6, "h": 0.55 } },
+    { "id": "luz", "source": "luz.jpeg", "folder": "people", "ratio": 0.8, "widths": [480, 900], "crop": { "cx": 0.5, "cy": 0.45, "h": 0.7 } },
     { "id": "jorge", "source": "jorge.jpeg", "folder": "people", "ratio": 0.8, "widths": [480, 900], "crop": { "cx": 0.4, "cy": 0.62, "h": 0.62 } },
     {
       "id": "vistas",
