@@ -1,0 +1,9 @@
+node_modules
+dist
+fotos/
+.env
+.env.local
+test-results
+playwright-report
+*.log
+.claude/

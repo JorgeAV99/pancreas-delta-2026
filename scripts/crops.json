@@ -1,0 +1,24 @@
+{
+  "items": [
+    { "id": "patri", "source": "patri.jpeg", "folder": "people", "ratio": 0.8, "widths": [480, 900], "crop": { "cx": 0.45, "cy": 0.44, "h": 0.57 } },
+    { "id": "froiz", "source": "froiz.jpeg", "folder": "people", "ratio": 0.8, "widths": [480, 900], "crop": { "cx": 0.6, "cy": 0.5, "h": 0.9 } },
+    { "id": "milla", "source": "milla.jpeg", "folder": "people", "ratio": 0.8, "widths": [480, 900], "crop": { "cx": 0.56, "cy": 0.5, "h": 1 } },
+    { "id": "david", "source": "david.jpeg", "folder": "people", "ratio": 0.8, "widths": [480, 900], "crop": { "cx": 0.5, "cy": 0.53, "h": 0.57 } },
+    { "id": "angela", "source": "angela.jpeg", "folder": "people", "ratio": 0.8, "widths": [480, 900], "crop": { "cx": 0.5, "cy": 0.6, "h": 0.56 } },
+    { "id": "edu", "source": "edu.jpeg", "folder": "people", "ratio": 0.8, "widths": [480, 900], "crop": { "cx": 0.45, "cy": 0.47, "h": 0.7 } },
+    { "id": "ana", "source": "ana.jpeg", "folder": "people", "ratio": 0.8, "widths": [480, 900], "crop": { "cx": 0.66, "cy": 0.5, "h": 1 } },
+    { "id": "luz", "source": "luz.jpeg", "folder": "people", "ratio": 0.8, "widths": [480, 900], "crop": { "cx": 0.5, "cy": 0.6, "h": 0.55 } },
+    { "id": "jorge", "source": "jorge.jpeg", "folder": "people", "ratio": 0.8, "widths": [480, 900], "crop": { "cx": 0.4, "cy": 0.62, "h": 0.62 } },
+    {
+      "id": "vistas",
+      "source": "vistas_casa.jpeg",
+      "folder": "house",
+      "ratio": 0.75,
+      "widths": [720, 1200],
+      "quality": 80,
+      "crop": { "cx": 0.5, "cy": 0.5, "h": 1 },
+      "og": { "cx": 0.5, "cy": 0.62, "h": 0.4 }
+    },
+    { "id": "vistas-mar", "source": "vistas_casa.jpeg", "folder": "house", "ratio": 1.6, "widths": [800, 1200], "quality": 80, "crop": { "cx": 0.5, "cy": 0.74, "h": 0.47 } }
+  ]
+}
